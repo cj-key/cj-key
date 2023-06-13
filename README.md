@@ -2,7 +2,7 @@
 
 ![Software Developer](https://img.shields.io/badge/Software-Developer-blue)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cj-key/)
-![Juris Doctor](https://img.shields.io/badge/Juris-Doctor-green)
+![Juris Doctor](https://img.shields.io/badge/Juris-Doctor-red)
 
 I'm a Software Engineer with a background in law, bringing analytical thinking and problem-solving skills acquired during my tenure as a Certified Law Clerk. Adept in Swift, Python, and JavaScript, I specialize in creating interactive and efficient web and mobile applications.
 
