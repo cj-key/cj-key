@@ -38,7 +38,7 @@ I'm a Software Engineer with a background in law, bringing analytical thinking a
 - Includes a level progression system adapting the number of bricks, canvas size, and paddle width.
 
 ## 📊 Analytics
-![CJ's Github Stats](https://github-readme-stats.vercel.app/api?username=cj-key&show_icons=true&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
 
 ## ✉️ Contact
 Feel free to reach out!
