@@ -41,4 +41,4 @@ I'm a Software Engineer with a background in law, bringing analytical thinking a
 ## ✉️ Contact
 Feel free to reach out!
 
-📧 Email: [charlesjosephkey@gmail.com](mailto:charlesjosephkey@gmail.com)
+📧 Email: [contact@cjkey.dev](mailto:contact@cjkey.dev)
