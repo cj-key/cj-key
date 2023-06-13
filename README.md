@@ -37,8 +37,6 @@ I'm a Software Engineer with a background in law, bringing analytical thinking a
 - Built using JavaScript, HTML, and CSS, it features dynamic levels, collision detection, and responsive paddle control.
 - Includes a level progression system adapting the number of bricks, canvas size, and paddle width.
 
-## 📊 Analytics
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cj-key&theme=github)
 
 ## ✉️ Contact
 Feel free to reach out!
